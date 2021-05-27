@@ -11,4 +11,5 @@ import java.util.List;
 public class PaymentObject {
     @JsonProperty("transaction_promotions")
     private List<TransactionPromotionsObject> transactionPromotions;
+
 }
