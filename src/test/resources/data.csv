@@ -1,0 +1,6 @@
+id,uom_id,quantity,promotion_id,promotion_name,store_id,amount_before,discount_amount,amount_after
+1,6249,3,11789,Banh bao mua 2 tang 1,1002,51000,17000,34000
+2,13983,3,11788,Pizza mua 2 tang 1,1002,126000,42000,84000
+3,3198,3,11790,Bia tiger mua 2 tang 1,1002,57000,19000,38000
+4,3469,3,11786,Pepsi mua 2 tang 1,1002,24000,8000,16000
+5,3208,3,11785,Coca mua 2 tang 1,1002,24000,8000,16000
